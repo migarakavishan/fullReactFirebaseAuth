@@ -1,6 +1,6 @@
 # Login Register page
 
-Using firebase as backend and react and tailwind for frontend. Full firebase auth page
+Using firebase as backend and react and tailwind for frontend. Full firebase auth page google login and authentication forgot password
 
 
 # Getting Started with Create React App
